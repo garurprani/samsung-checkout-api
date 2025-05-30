@@ -9,6 +9,14 @@
   I am <strong>not responsible</strong> for any misuse, account bans, or damages caused by using this tool. 
   Use at your own risk.
 
+  <div>
+    <img src="screenshots/ss (1).jpg" alt="Screenshot 1" style="width:200px; height:150px; object-fit: cover;" />
+    <img src="screenshots/ss (2).jpg" alt="Screenshot 2" style="width:200px; height:150px; object-fit: cover;" />
+    <img src="screenshots/ss (3).jpg" alt="Screenshot 3" style="width:200px; height:150px; object-fit: cover;" />
+    <img src="screenshots/ss (4).jpg" alt="Screenshot 4" style="width:200px; height:150px; object-fit: cover;" />
+    <img src="screenshots/ss (5).jpg" alt="Screenshot 5" style="width:200px; height:150px; object-fit: cover;" />
+    <img src="screenshots/ss (6).jpg" alt="Screenshot 6" style="width:200px; height:150px; object-fit: cover;" />
+  </div>
 
 <h2>📦 <code>add2cart.py</code> — Add Product to Cart</h2>
 
